@@ -4,7 +4,7 @@ I loved computers from an early age, which opened the door to programming in one
 
 
 - 📫 How to reach me: petrovic.gligorije.00@gmail.com 
-
+<a href=”www.linkedin.com/in/gligorije-petrović-b25bb5247"><img align=”left” src=”linkedin.png" alt=”LinkedIn” width=”21px”/></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usamplazo&show_icons=true)  
 
