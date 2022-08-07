@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋, Gligorije<br>A passionate backend developer from Serbia.
-I loved computers from an early age, which opened the door to programming in one moment. Now I enjoy learning new programming languages and frameworks and expanding my knowledge every day. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
+I loved computers from an early age, which opened the door to programming in one moment. Now I enjoy learning new programming languages and frameworks and expanding my knowledge. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gligorije-petrović-b25bb5247) 
