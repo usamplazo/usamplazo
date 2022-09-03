@@ -9,5 +9,3 @@ I loved computers from an early age, which opened the door to programming in one
 ![](https://github-readme-stats.vercel.app/api?username=usamplazo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usamplazo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=usamplazo&icon=0&color=1)](https://visitcount.itsvg.in)
